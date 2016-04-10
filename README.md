@@ -1,7 +1,13 @@
+---
+output:
+  html_document:
+    css: style.css
+---
+
 # Arduino-Sacred-Geometry
 Example of how to create the flower of life in a Display Lcd Tft 1,44 128x128 Spi Nokia Arduino Pic.
 
-- Libraries used
-Adafruit_GFX.h
-TFT_ILI9163C.h
+# Libraries used
+- Adafruit_GFX.h
+- TFT_ILI9163C.h
 
