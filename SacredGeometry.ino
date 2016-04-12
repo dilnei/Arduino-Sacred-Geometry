@@ -1,3 +1,10 @@
+/***************************************************
+  This is an example of how to create the flower of 
+  life in a Display Lcd Tft 1,44 128x128 Spi Nokia 
+  Arduino Pic.
+  Written by Dilnei Cunha.  
+ ****************************************************/
+
 #include <Adafruit_GFX.h>
 #include <TFT_ILI9163C.h>
 
